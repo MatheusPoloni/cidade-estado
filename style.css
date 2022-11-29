@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+    background-attachment: fixed;
+    background-color: currentColor;
+    background-color: yellow;
+    animation: alternate-reverse infinite 6s;
+}
+
